@@ -229,4 +229,4 @@ For support and queries:
 
 ---
 
-**Made with ❤️ for Digital India Initiative**
+**Made for Digital India Initiative**
