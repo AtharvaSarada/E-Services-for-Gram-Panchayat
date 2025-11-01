@@ -214,11 +214,7 @@ Language files are located in `frontend/src/i18n/`:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Support
 
-For support and queries:
-- Email: support@grampanchayat.gov.in
-- Phone: +91 XXXXX XXXXX
 
 ## 🙏 Acknowledgments
 
@@ -226,6 +222,7 @@ For support and queries:
 - Ministry of Panchayati Raj
 - State Government IT Department
 - Local Gram Panchayat Administration
+- Unified Mentor Pvt. Ltd.
 
 ---
 
